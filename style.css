@@ -107,11 +107,16 @@ body {
     width: 32px;
     height: 32px;
     transition: all .5s;
+
+    animation: slide-back .5s;
+}
+
+#switch button:hover {
+    outline: 8px solid var(--highlight-color);
 }
 
 .light #switch button {
-    left: initial;
-    right: 0;
+    animation: slide-in .4s forwards;
 }
 
 #switch span {
@@ -201,6 +206,28 @@ footer {
 
 footer a:hover {
     color: rgb(153, 0, 255);
+}
+
+/* animations */
+
+@keyframes slide-in {
+    from {
+        left: 0;
+    }
+
+    to {
+        left: 50%;
+    }
+}
+
+@keyframes slide-back {
+    from {
+        left: 50%;
+    }
+
+    to {
+        left: 0;
+    }
 }
 
 @media (min-width: 700px) {
