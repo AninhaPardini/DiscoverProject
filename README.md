@@ -38,10 +38,14 @@ Este projeto é um Devlinks, uma versão melhorada do linktree por exemplo.
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/3KRXXN7cfqBpvOxZZgf6sn/DevLinks-%E2%80%A2-Projeto-Discover-(Community)?type=design&node-id=10-620&t=VYWOygvX5vhuNWtW-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
+## ✏️ O que aprendi
+
+Neste curso tive uma visão muito mais detalhada de como otimizar o meu código, me ajudou a facilitar também minha visão sobre as ferramentas usadas, ao HTML em como simplificar as marcações, ao CSS em como melhorar minhas linhas de código e deixá-las mais limpas, e ao JavaScript para aprimorar minha visão como utiliza-lo para interagir melhor com o site. Creio que com certeza, este curso foi um dos mais produtivos do meu inicio de carreira!
+
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Obrigada Rocketseat ♥ :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
