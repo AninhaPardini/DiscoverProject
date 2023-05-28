@@ -21,6 +21,10 @@ Estudo e construção do projeto de um programa exclusivo e gratuito da Rocketse
   <img alt="Discover Project" src=".github/Cover.jpg" width="100%">
 </p>
 
+## 💻 Site
+
+Para visualizar como ficou o projeto finalizado visite: https://aninhapardini.github.io/DiscoverProject/
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
